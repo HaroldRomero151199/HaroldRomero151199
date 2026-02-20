@@ -22,7 +22,7 @@
 
 <!-- SNAKE ANIMATION (CONTRIBUTIONS) -->
 <p align="center">
-  <img src="https://github.com/HaroldRomero151199/HaroldRomero151199/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/HaroldRomero151199/HaroldRomero151199/output/github-contribution-grid-snake-dark.svg?v=2" />
 </p>
 
 ---
