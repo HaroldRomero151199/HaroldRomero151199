@@ -1,7 +1,28 @@
-# 🚀 Harold Romero | Fullstack Developer • Data Scientist • AI Enthusiast
+<!-- =========================
+     FUTURISTIC HEADER
+========================== -->
+<h1 align="center">🚀 Harold Romero | Fullstack Developer • Data Scientist • AI Enthusiast</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Data+Science+%26+AI+Engineer;IoT+%26+Real-Time+Systems;Building+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Data+Science+%26+AI+Engineer;IoT+%26+Real-Time+Systems;Building+Scalable+Solutions" />
+</p>
+
+<!-- DYNAMIC BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HaroldRomero151199&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/HaroldRomero151199?label=Followers&style=for-the-badge&color=00F7FF" />
+  <img src="https://img.shields.io/github/stars/HaroldRomero151199?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=for-the-badge&color=00F7FF" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/HaroldRomero151199/HaroldRomero151199?label=Last%20Update&style=for-the-badge&color=00F7FF" />
+  <img src="https://img.shields.io/badge/Timezone-America%2FLa_Paz-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Real--Time%20%7C%20AI%20%7C%20Backend-00F7FF?style=for-the-badge" />
+</p>
+
+<!-- SNAKE ANIMATION (CONTRIBUTIONS) -->
+<p align="center">
+  <img src="https://github.com/HaroldRomero151199/HaroldRomero151199/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -73,7 +94,7 @@ I love working at the intersection of:
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
-![Apache Solr](https://img.shields.io/badge/Apache%20Solr-0d1117?style=for-the-badge&logo=apache)
+![Apache%20Solr](https://img.shields.io/badge/Apache%20Solr-0d1117?style=for-the-badge&logo=apache)
 
 ---
 
@@ -96,18 +117,23 @@ Data ingestion, processing, and configuration services.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaroldRomero151199&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaroldRomero151199&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaroldRomero151199&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaroldRomero151199&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldRomero151199&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldRomero151199&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaroldRomero151199&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -115,8 +141,8 @@ Data ingestion, processing, and configuration services.
 ## 📫 How to Reach Me
 
 - GitHub: https://github.com/HaroldRomero151199  
-- LinkedIn: *(add when available)*  
-- Email: *(add when available)*  
+- LinkedIn: https://www.linkedin.com/in/harold-romero-albarado-5131b1262
+- Email: harold.romero.albarado@gmail.com
 
 ---
 
@@ -132,3 +158,5 @@ I enjoy turning complex problems into clean, scalable architectures and optimizi
 ---
 
 > "Code is not just about solving problems — it's about designing the future."
+
+---
