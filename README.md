@@ -82,6 +82,7 @@ I love working at the intersection of:
 ![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)
 
 ---
 
@@ -95,6 +96,7 @@ I love working at the intersection of:
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
 ![Apache%20Solr](https://img.shields.io/badge/Apache%20Solr-0d1117?style=for-the-badge&logo=apache)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel)
 
 ---
 
