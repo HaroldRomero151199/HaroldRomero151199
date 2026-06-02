@@ -97,6 +97,7 @@ I love working at the intersection of:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
 ![Apache%20Solr](https://img.shields.io/badge/Apache%20Solr-0d1117?style=for-the-badge&logo=apache)
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel)
+![Serverpod](https://img.shields.io/badge/Serverpod-0d1117?style=for-the-badge&logo=serverpod)
 
 ---
 
