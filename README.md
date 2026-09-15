@@ -149,12 +149,6 @@ Data ingestion, processing, and configuration services.
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy turning complex problems into clean, scalable architectures and optimizing systems until they feel **fast, elegant, and future-proof** ⚡
-
----
-
 > "Code is not just about solving problems — it's about designing the future."
 
 ---
